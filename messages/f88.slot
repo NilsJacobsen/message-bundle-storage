@@ -69823,7 +69823,8 @@
 
 
 
-0,
+{"idHash":"aebedfef91839eab13e62aa2bcd3670efeb26dfa16eda9cccb66a66998154430", "hash":"f8f8f039bdfa4c7105dc1fae3fe6962a0b449167098ce51b548162972045638c", "data": {"id":"left_trick_starfish_urge","locale":"de","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}},{"type":"input","name":"count","value":{"type":"expression","arg":{"type":"variable","name":"count"}}},{"type":"input","name":"projectCount","value":{"type":"expression","arg":{"type":"variable","name":"projectCount"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_de_zero","match":["zero"],"pattern":[{"type":"text","value":"Keine Produkte"}]},{"id":"mock_variant_id_de_one","match":["one"],"pattern":[{"type":"text","value":"Ein Produkt"}]},{"id":"mock_variant_id_de_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" Produkte"}]}],"bundleId":"new_sharp_cobra_feel"}},
+
 
 
 
@@ -194484,7 +194485,8 @@
 
 
 
-0,
+{"idHash":"873c7d251ca9fa69a447ca9865c765061b4e13060b308ff86540df0bcee8bded", "hash":"4d7f622b196c63e89208248586e8c852d18592c3836562276c496dde5bb8c5d1", "data": {"id":"heroic_icy_lionfish_talk","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"No Products"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"bundleId":"new_sharp_cobra_feel"}},
+
 
 
 
