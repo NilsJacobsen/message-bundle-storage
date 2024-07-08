@@ -12,10 +12,5 @@
   "plugin.inlang.messageFormat": {
     "pathPattern": "./messages/{languageTag}.json"
   },
-  "lintConfig": [
-    {
-      "ruleId": "messageBundleLintRule.test.TODO",
-      "level": "warning"
-    }
-  ]
+  "lintConfig": []
 }
