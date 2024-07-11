@@ -140233,7 +140233,7 @@
 
 
 
-{"hash":"25256a9748b46bdaf3712c189f65c55fbdae553862b17137fce9f53a4bdca176", "data": {"id":"novel_zany_kangaroo_strive","bundleId":"each_best_ocelot_relish","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":" No Products "}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}]}},
+{"hash":"5a589f355978385005b44a76940e1e0864a99baed4b8218ef36634fda07b88c8", "data": {"id":"novel_zany_kangaroo_strive","bundleId":"each_best_ocelot_relish","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":" No Products  "}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}]}},
 
 
 
